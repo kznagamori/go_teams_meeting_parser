@@ -1,0 +1,2 @@
+# go_teams_meeting_parser
+Teamsの会議情報を解析する
